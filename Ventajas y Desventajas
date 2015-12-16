@@ -1,0 +1,11 @@
+Ventajas:
+        Código: es de relativo fácil entendimiento, como está listo para la implementación es más rapido a la hora de realizar un programa
+        Pseudocódigo: tiene una sintaxis facil de entender, incluso por terceros sin muchos conocimientos en programacion
+        Diagrama N-S/Chapin: es una forma mas visual de representación, esto hace que sea entendible sin tener conocimientos en prgramacion
+        Diagrama de Flujo: al igual que los diagramas NS o Chapin son visuales y permiten su rapido entendimiento
+        
+Desventajas:
+        Código: se necesitan conocimientos mas profundos en programacion, y en la sintaxis especifica del lenguaje (c++,c,java,ect.)
+        Pseudocódigo: requiere conocimientos, aunque mas superficiales que en el caso del código y en algunos casos puede ser un poco confuso
+        Diagrama N-S/Chapin: aunque representa un programa, no lo hace en la totalidad del funcionamiento del mismo y no es tan "intuitivo" como los diagramas de flujo
+        Diagrama de Flujo: al igual que los anteriores, no representa la totalidad del funcionamiento del programa y puede ser un poco confuso el uso de flechas
